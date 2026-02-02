@@ -10,5 +10,9 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: nothing
 
 
-- #
+  # TECHNICAL SKILLS :
+  - FRONTEND : HTML , CSS , JAVASCRIPT , REACT , TAILWINDCSS , BOOTSTRAP
+  - BACKEND : NODE.JS , EXPRESS.JS , RESTFUL API'S , MIDDLEWARES
+  - DATABASES : SQL , MONGODB
+  - TOOLS AND DEVOPS : GIT & GITHUB , AWS , DOCKER
 
