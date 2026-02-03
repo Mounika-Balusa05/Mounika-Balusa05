@@ -12,5 +12,6 @@ Here are some ideas to get you started:
 
   # TECHNICAL SKILLS :
   - FRONTEND : HTML , CSS , JAVASCRIPT , REACT , TAILWINDCSS , BOOTSTRAP
+  - BACKEND : 
 
 
