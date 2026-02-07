@@ -12,6 +12,8 @@ Here are some ideas to get you started:
 
   # TECHNICAL SKILLS :
   - FRONTEND : HTML , CSS , JAVASCRIPT , REACT , TAILWINDCSS , BOOTSTRAP
-  - BACKEND : Node.js , Express.js
+  - BACKEND : Node.js , Express.js , RESTful API's , Middlewares
+  - Databases : SQL , MongoDB
+  - Tools and DevOps : Git and Github , AWS , Docker
 
 
