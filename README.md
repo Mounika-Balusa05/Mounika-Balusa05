@@ -7,7 +7,6 @@ Here are some ideas to get you started:
 - 🌱 I’m currently learning CS subjects
 - 📫 How to reach me: mounikabalusa05@gmail.com
 - 😄 Pronouns: she/her
-- ⚡ Fun fact: nothing
 
 
   # TECHNICAL SKILLS :
