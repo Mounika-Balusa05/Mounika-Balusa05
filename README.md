@@ -15,5 +15,9 @@ Here are some ideas to get you started:
   - BACKEND : Node.js , Express.js , RESTful API's , Middlewares
   - Databases : SQL , MongoDB
   - Tools and DevOps : Git and Github , Docker
+ 
+  # Soft Skills
+  - Communication
+  - Leadership
 
 
