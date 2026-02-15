@@ -6,7 +6,7 @@ Here are some ideas to get you started:
 - 🔭 I’m currently working on Web Development , DSA
 - currently working on notes-app project
 - 🌱 I’m currently learning CS subjects
-- 📫 How to reach me: mounikabalusa05@gmail.com
+- 📫 How to reach me: no, you can't. beacuse im unreachable.
 - 😄 Pronouns: she/her
 
 
