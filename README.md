@@ -1,8 +1,5 @@
 ## Heyyy  👋
 
-
-Here are some ideas to get you started:
-
 - 🔭 I’m currently working on Web Development , DSA
 - currently working on notes-app project
 - 🌱 I’m currently learning CS subjects
