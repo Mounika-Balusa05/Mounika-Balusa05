@@ -1,12 +1,11 @@
 <h1 align="center">Hi there, I'm Mounika Balusa 👋</h1>
-
+<p align="center">
+  CSE Student | Full Stack Web Developer | Data Analytics Enthusiast 
+</p>
 <p align="center">
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=18&pause=1000&color=00B4D8&center=true&vCenter=true&width=600&lines=Full+Stack+Developer+%7C+MERN+Stack;Data+Analytics+Enthusiast;Building+Web+Apps+%26+Data+Stories;Open+to+Internships+%26+Placements+%F0%9F%9A%80" alt="Typing SVG" />
 </p>
 
-<p align="center">
-  CSE Student | Frontend | Backend | Databases | Data Analytics Enthusiast 
-</p>
 
 ---
 
@@ -78,10 +77,7 @@ I'm a **Full Stack Web Developer** who builds end-to-end applications using the 
 | 🎯 **AI Interview Prep App** | Full stack MERN app to help users practice interviews with AI-generated questions and feedback |
 | 📋 **Smart Job Application Tracker** | Track job applications, deadlines, and statuses with a clean dashboard — built on MERN stack |
 
-### 🛠️ Explorations
-| Project | Description |
-|--------|-------------|
-| 🎓 **Intelligent AI Attendance System** | Automated attendance system built using face recognition and voice embeddings, backed by Supabase |
+
 
 ### 📊 Data Analytics
 | Project | Description |
