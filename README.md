@@ -1,9 +1,9 @@
 <h1 align="center">Hi there, I'm Mounika Balusa 👋</h1>
 <p align="center">
-  CSE Student | Full Stack Web Developer | Data Analytics Enthusiast 
+  CSE Student | Full Stack Web Developer
 </p>
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=18&pause=1000&color=00B4D8&center=true&vCenter=true&width=600&lines=Full+Stack+Developer+%7C+MERN+Stack;Data+Analytics+Enthusiast;Building+Web+Apps+%26+Data+Stories;Open+to+Internships+%26+Placements+%F0%9F%9A%80" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=18&pause=1000&color=00B4D8&center=true&vCenter=true&width=600&lines=Full+Stack+Developer+%7C+MERN+Stack;Building+Web+Apps;Open+to+Internships+%26+Placements+%F0%9F%9A%80" alt="Typing SVG" />
 </p>
 
 
@@ -11,12 +11,11 @@
 
 ## 🙋‍♀️ About Me
 
-I'm a **Full Stack Web Developer** who builds end-to-end applications using the **MERN stack** — and I have a genuine enthusiasm for **Data Analytics**. I love building web apps that work beautifully, and I enjoy diving into data to find patterns and tell stories through visualizations.
+I'm a **Full Stack Web Developer** who builds end-to-end applications using the **MERN stack** . I love building web apps that work beautifully.
 
 - 🌐 I build full stack web apps with **MongoDB, Express, React, and Node.js**
-- 📊 I'm a **Data Analytics enthusiast** — EDA, visualization, and making data make sense
 - 🛠️ I've also built projects involving AI-powered features out of curiosity
-- 🎯 Looking for **internships & placement opportunities** in Full Stack or Data Analytics
+- 🎯 Looking for **internships & placement opportunities** in Full Stack
 - 📍 Based in Hyderabad, India
 
 ---
@@ -51,15 +50,6 @@ I'm a **Full Stack Web Developer** who builds end-to-end applications using the 
   <img src="https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white" />
 </p>
 
-### 📊 Data Analytics
-<p>
-  <img src="https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white" />
-  <img src="https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white" />
-  <img src="https://img.shields.io/badge/Matplotlib-11557C?style=for-the-badge&logo=python&logoColor=white" />
-  <img src="https://img.shields.io/badge/Seaborn-4C72B0?style=for-the-badge&logo=python&logoColor=white" />
-  <img src="https://img.shields.io/badge/Jupyter-F37626?style=for-the-badge&logo=jupyter&logoColor=white" />
-</p>
-
 ### 🔧 Tools
 <p>
   <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" />
@@ -77,14 +67,6 @@ I'm a **Full Stack Web Developer** who builds end-to-end applications using the 
 | 🎯 **AI Interview Prep App** | Full stack MERN app to help users practice interviews with AI-generated questions and feedback |
 | 📋 **Smart Job Application Tracker** | Track job applications, deadlines, and statuses with a clean dashboard — built on MERN stack |
 
-
-
-### 📊 Data Analytics
-| Project | Description |
-|--------|-------------|
-| 🏏 **IPL Data Analysis** | EDA and visualization of IPL match data to uncover player and team performance trends |
-| 🍕 **EDA on Zomato / Netflix** | Exploratory analysis of real-world datasets revealing user behavior and content patterns |
-| 📈 **Financial Data Analysis** | Time series and statistical analysis of stock market data using yfinance, Pandas, and Matplotlib |
 
 ---
 
