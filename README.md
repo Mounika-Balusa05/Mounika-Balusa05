@@ -68,10 +68,12 @@ I'm a **Full Stack Web Developer** who builds end-to-end applications using the 
 - Generates **AI-powered interview questions** tailored to the user's role and tech stack
 - Provides **instant feedback** to help users improve their answers and confidence
 
-![MongoDB](https://img.shields.io/badge/MongoDB-grey?style=flat)
-![Express](https://img.shields.io/badge/Express.js-grey?style=flat)
+
 ![React](https://img.shields.io/badge/React-grey?style=flat)
 ![Node.js](https://img.shields.io/badge/Node.js-grey?style=flat)
+![Express](https://img.shields.io/badge/Express.js-grey?style=flat)
+![MongoDB](https://img.shields.io/badge/MongoDB-grey?style=flat)
+![OpenAI API](https://img.shields.io/badge/OpenAI_API-grey?style=flat)
 
 ---
 
@@ -83,10 +85,11 @@ I'm a **Full Stack Web Developer** who builds end-to-end applications using the 
 - Clean, intuitive **dashboard UI** built with React for a smooth user experience
 - Full **CRUD operations** powered by Express and MongoDB
 
-![MongoDB](https://img.shields.io/badge/MongoDB-grey?style=flat)
-![Express](https://img.shields.io/badge/Express.js-grey?style=flat)
 ![React](https://img.shields.io/badge/React-grey?style=flat)
 ![Node.js](https://img.shields.io/badge/Node.js-grey?style=flat)
+![Express](https://img.shields.io/badge/Express.js-grey?style=flat)
+![MongoDB](https://img.shields.io/badge/MongoDB-grey?style=flat)
+
 ---
 
 ## 📊 GitHub Stats
