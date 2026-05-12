@@ -24,7 +24,6 @@ I'm a **Full Stack Web Developer** who builds end-to-end applications using the 
 ### 💻 Languages
 <p>
   <img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white" />
-  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" />
   <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" />
   <img src="https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white" />
 </p>
@@ -62,7 +61,7 @@ I'm a **Full Stack Web Developer** who builds end-to-end applications using the 
 
 ### 🎯 AI Interview Prep App
 
-> Full stack MERN app to help users practice interviews with AI-generated questions and feedback.
+> Full stack MERN app to help users practice interviews with AI-generated questions.
 
 - Built with **MongoDB, Express, React, and Node.js** for a seamless full stack experience
 - Generates **AI-powered interview questions** tailored to the user's role and tech stack
@@ -91,6 +90,21 @@ I'm a **Full Stack Web Developer** who builds end-to-end applications using the 
 ![MongoDB](https://img.shields.io/badge/MongoDB-grey?style=flat)
 
 ---
+
+### Travel Explorer
+
+> Explore smarter, plan better, travel easier.
+
+- Interactive destination exploration with weather forecasting and map integration
+- Smart itinerary and travel budget planning system
+- Responsive frontend UI with saved trips and destination bookmarking using localStorage
+
+![HTML](https://img.shields.io/badge/HTML-grey?style=flat)
+![CSS](https://img.shields.io/badge/CSS-grey?style=flat)
+![JavaScript](https://img.shields.io/badge/JavaScript-grey?style=flat)
+![Whether API](https://img.shields.io/badge/WhetherAPI-grey?style=flat)
+![GoogleMapAPI](https://img.shields.io/badge/GoogleMapAPI-grey?style=flat)
+
 
 ## 📊 GitHub Stats
 
