@@ -8,7 +8,7 @@
 
 ---
 
-## 🙋‍♀️ About Me
+## 👩‍🎓 About Me
 
 I'm a **Full Stack Web Developer** who builds end-to-end applications using the **MERN stack**. I love building web apps that work beautifully.
 
@@ -33,6 +33,8 @@ I'm a **Full Stack Web Developer** who builds end-to-end applications using the 
   <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" />
   <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" />
   <img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" />
+  <img src="https://img.shields.io/badge/Bootstrap-563D7C?style=for-the-badge&logo=bootstrap&logoColor=white" />
+  <img src="https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white" />
 </p>
 
 ### ⚙️ Backend
@@ -68,11 +70,12 @@ I'm a **Full Stack Web Developer** who builds end-to-end applications using the 
 - Provides **instant feedback** to help users improve their answers and confidence
 
 
-![React](https://img.shields.io/badge/React-grey?style=flat)
-![Node.js](https://img.shields.io/badge/Node.js-grey?style=flat)
-![Express](https://img.shields.io/badge/Express.js-grey?style=flat)
-![MongoDB](https://img.shields.io/badge/MongoDB-grey?style=flat)
-![OpenAI API](https://img.shields.io/badge/OpenAI_API-grey?style=flat)
+![React](https://img.shields.io/badge/React-grey?style=flat&logo=react)
+![Node.js](https://img.shields.io/badge/Node.js-grey?style=flat&logo=node.js)
+![Express](https://img.shields.io/badge/Express.js-grey?style=flat&logo=express)
+![MongoDB](https://img.shields.io/badge/MongoDB-grey?style=flat&logo=mongodb)
+![Tailwind CSS](https://img.shields.io/badge/Tailwind_CSS-grey?style=flat&logo=tailwind-css)
+![OpenAI API](https://img.shields.io/badge/OpenAI_API-grey?style=flat&logo=openai)
 
 ---
 
@@ -84,10 +87,10 @@ I'm a **Full Stack Web Developer** who builds end-to-end applications using the 
 - Clean, intuitive **dashboard UI** built with React for a smooth user experience
 - Full **CRUD operations** powered by Express and MongoDB
 
-![React](https://img.shields.io/badge/React-grey?style=flat)
-![Node.js](https://img.shields.io/badge/Node.js-grey?style=flat)
-![Express](https://img.shields.io/badge/Express.js-grey?style=flat)
-![MongoDB](https://img.shields.io/badge/MongoDB-grey?style=flat)
+![React](https://img.shields.io/badge/React-grey?style=flat&logo=react)
+![Node.js](https://img.shields.io/badge/Node.js-grey?style=flat&logo=node.js)
+![Express](https://img.shields.io/badge/Express.js-grey?style=flat&logo=express)
+![MongoDB](https://img.shields.io/badge/MongoDB-grey?style=flat&logo=mongodb)
 
 ---
 
@@ -99,11 +102,11 @@ I'm a **Full Stack Web Developer** who builds end-to-end applications using the 
 - Smart itinerary and travel budget planning system
 - Responsive frontend UI with saved trips and destination bookmarking using localStorage
 
-![HTML](https://img.shields.io/badge/HTML-grey?style=flat)
-![CSS](https://img.shields.io/badge/CSS-grey?style=flat)
-![JavaScript](https://img.shields.io/badge/JavaScript-grey?style=flat)
-![Whether API](https://img.shields.io/badge/WhetherAPI-grey?style=flat)
-![GoogleMapAPI](https://img.shields.io/badge/GoogleMapAPI-grey?style=flat)
+![HTML](https://img.shields.io/badge/HTML-grey?style=flat&logo=html5)
+![CSS](https://img.shields.io/badge/CSS-grey?style=flat&logo=css3)
+![JavaScript](https://img.shields.io/badge/JavaScript-grey?style=flat&logo=javascript)
+![Weather API](https://img.shields.io/badge/Weather_API-grey?style=flat&logo=openweathermap)
+![Google Maps API](https://img.shields.io/badge/Google_Maps_API-grey?style=flat&logo=googlemaps)
 
 
 ## 📊 GitHub Stats
