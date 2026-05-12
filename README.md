@@ -6,12 +6,11 @@
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=18&pause=1000&color=00B4D8&center=true&vCenter=true&width=600&lines=Full+Stack+Developer+%7C+MERN+Stack;Building+Web+Apps;Open+to+Internships+%26+Placements+%F0%9F%9A%80" alt="Typing SVG" />
 </p>
 
-
 ---
 
 ## 🙋‍♀️ About Me
 
-I'm a **Full Stack Web Developer** who builds end-to-end applications using the **MERN stack** . I love building web apps that work beautifully.
+I'm a **Full Stack Web Developer** who builds end-to-end applications using the **MERN stack**. I love building web apps that work beautifully.
 
 - 🌐 I build full stack web apps with **MongoDB, Express, React, and Node.js**
 - 🛠️ I've also built projects involving AI-powered features out of curiosity
@@ -61,13 +60,33 @@ I'm a **Full Stack Web Developer** who builds end-to-end applications using the 
 
 ## 🚀 Featured Projects
 
-### 🌐 Full Stack Web Development
-| Project | Description |
-|--------|-------------|
-| 🎯 **AI Interview Prep App** | Full stack MERN app to help users practice interviews with AI-generated questions and feedback |
-| 📋 **Smart Job Application Tracker** | Track job applications, deadlines, and statuses with a clean dashboard — built on MERN stack |
+### 🎯 AI Interview Prep App
 
+> Full stack MERN app to help users practice interviews with AI-generated questions and feedback.
 
+- Built with **MongoDB, Express, React, and Node.js** for a seamless full stack experience
+- Generates **AI-powered interview questions** tailored to the user's role and tech stack
+- Provides **instant feedback** to help users improve their answers and confidence
+
+![MongoDB](https://img.shields.io/badge/MongoDB-grey?style=flat)
+![Express](https://img.shields.io/badge/Express.js-grey?style=flat)
+![React](https://img.shields.io/badge/React-grey?style=flat)
+![Node.js](https://img.shields.io/badge/Node.js-grey?style=flat)
+
+---
+
+### 📋 Smart Job Application Tracker
+
+> Track job applications, deadlines, and statuses with a clean dashboard — built on MERN stack.
+
+- Track **application status, deadlines, and company details** in one place
+- Clean, intuitive **dashboard UI** built with React for a smooth user experience
+- Full **CRUD operations** powered by Express and MongoDB
+
+![MongoDB](https://img.shields.io/badge/MongoDB-grey?style=flat)
+![Express](https://img.shields.io/badge/Express.js-grey?style=flat)
+![React](https://img.shields.io/badge/React-grey?style=flat)
+![Node.js](https://img.shields.io/badge/Node.js-grey?style=flat)
 ---
 
 ## 📊 GitHub Stats
@@ -90,5 +109,4 @@ I'm a **Full Stack Web Developer** who builds end-to-end applications using the 
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=Mounika-Balusa05&label=Profile+Views&color=00B4D8&style=flat" />
 </p>
-
 <p align="center">⭐️ <i>If you like my work, consider giving a star to my repos!</i></p>
