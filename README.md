@@ -79,18 +79,27 @@ I'm a **Full Stack Web Developer** who builds end-to-end applications using the 
 
 ---
 
-### 📋 Smart Job Application Tracker
+📋 Smart Job Application Tracker
 
-> Track job applications, deadlines, and statuses with a clean dashboard — built on MERN stack.
+> A full-stack MERN web app to manage your entire job search journey — from applying to landing your dream job.
 
-- Track **application status, deadlines, and company details** in one place
-- Clean, intuitive **dashboard UI** built with React for a smooth user experience
-- Full **CRUD operations** powered by Express and MongoDB
+- Track **application status, priority, and company details** with filters and search
+- Schedule **interviews** linked to applications with type, date, time, and interviewer info
+- Get **in-app notifications** automatically — 1 day and 1 hour before every interview
+- Secure **JWT authentication** with bcrypt password hashing for full privacy
+- Clean, modern **dark-themed dashboard** built with React for a smooth experience
+- Full **CRUD operations** powered by Express and MongoDB Atlas
+
+&nbsp;
+[![🌐 Live Demo](https://img.shields.io/badge/🌐%20Live%20Demo-brightgreen?style=for-the-badge)](https://smart-job-application-tracker-wheat.vercel.app)
+[![GitHub Repo](https://img.shields.io/badge/GitHub%20Repo-black?style=for-the-badge&logo=github)](https://github.com/Mounika-Balusa05/Smart_Job_Application_Tracker)
 
 ![React](https://img.shields.io/badge/React-grey?style=flat&logo=react)
 ![Node.js](https://img.shields.io/badge/Node.js-grey?style=flat&logo=node.js)
 ![Express](https://img.shields.io/badge/Express.js-grey?style=flat&logo=express)
 ![MongoDB](https://img.shields.io/badge/MongoDB-grey?style=flat&logo=mongodb)
+![JWT](https://img.shields.io/badge/JWT-grey?style=flat&logo=jsonwebtokens)
+
 
 ---
 
