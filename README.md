@@ -118,7 +118,7 @@ I'm a **Full Stack Web Developer** who builds end-to-end applications using the 
 
 &nbsp;
 [![🌐 Live Demo](https://img.shields.io/badge/🌐%20Live%20Demo-brightgreen?style=for-the-badge)](https://globetrek-travel-explorer.netlify.app/)
-[![GitHub Repo](https://img.shields.io/badge/GitHub%20Repo-black?style=for-the-badge&logo=github)](https://github.com/Mounika-Balusa05/Smart_Job_Application_Tracker)
+[![GitHub Repo](https://img.shields.io/badge/GitHub%20Repo-black?style=for-the-badge&logo=github)](https://github.com/Mounika-Balusa05/globetrek)
 
 ## 📊 GitHub Stats
 
