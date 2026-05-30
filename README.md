@@ -107,9 +107,10 @@ I'm a **Full Stack Web Developer** who builds end-to-end applications using the 
 
 > Explore smarter, plan better, travel easier.
 
-- Interactive destination exploration with weather forecasting and map integration
-- Smart itinerary and travel budget planning system
-- Responsive frontend UI with saved trips and destination bookmarking using localStorage
+- Explore 19 global destinations with real photos powered by Unsplash API and interactive Google Maps
+- Search any destination worldwide — dynamically fetches live photos and displays results instantly
+- Plan day-wise itineraries and estimate trip budgets with multi-currency conversion support
+- Save favourite destinations and itineraries locally with dark/light mode and fully responsive design
 
 ![HTML](https://img.shields.io/badge/HTML-grey?style=flat&logo=html5)
 ![CSS](https://img.shields.io/badge/CSS-grey?style=flat&logo=css3)
