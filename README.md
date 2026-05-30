@@ -114,9 +114,11 @@ I'm a **Full Stack Web Developer** who builds end-to-end applications using the 
 ![HTML](https://img.shields.io/badge/HTML-grey?style=flat&logo=html5)
 ![CSS](https://img.shields.io/badge/CSS-grey?style=flat&logo=css3)
 ![JavaScript](https://img.shields.io/badge/JavaScript-grey?style=flat&logo=javascript)
-![Weather API](https://img.shields.io/badge/Weather_API-grey?style=flat&logo=openweathermap)
-![Google Maps API](https://img.shields.io/badge/Google_Maps_API-grey?style=flat&logo=googlemaps)
+![Unsplash API](https://img.shields.io/badge/Unsplash_API-grey?style=flat&logo=unsplash)
 
+&nbsp;
+[![🌐 Live Demo](https://img.shields.io/badge/🌐%20Live%20Demo-brightgreen?style=for-the-badge)](https://globetrek-travel-explorer.netlify.app/)
+[![GitHub Repo](https://img.shields.io/badge/GitHub%20Repo-black?style=for-the-badge&logo=github)](https://github.com/Mounika-Balusa05/Smart_Job_Application_Tracker)
 
 ## 📊 GitHub Stats
 
