@@ -135,6 +135,7 @@ I'm a **Full Stack Web Developer** who builds end-to-end applications using the 
 - 📧 **Email:** [mounikabalusa05@gmail.com](mailto:mounikabalusa05@gmail.com)
 - 💼 **LinkedIn:** [Mounika Balusa](https://www.linkedin.com/in/mounika-balusa-5722872a2/)
 - 🐙 **GitHub:** [Mounika-Balusa05](https://github.com/Mounika-Balusa05)
+- **Instagram:** [mounika](https://www.instagram.com/_mounikaaaaa5/)
 
 ---
 
