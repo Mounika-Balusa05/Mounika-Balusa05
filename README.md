@@ -141,4 +141,4 @@ I'm a **Full Stack Web Developer** who builds end-to-end applications using the 
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=Mounika-Balusa05&label=Profile+Views&color=00B4D8&style=flat" />
 </p>
-<p align="center">⭐️ <i>If you like my work, consider giving a star to my repos!</i></p>
+<p align="center">⏰<i>Trust the timing ! ✨</i></p>
