@@ -121,14 +121,11 @@ I'm a **Full Stack Web Developer** who builds end-to-end applications using the 
 [![🌐 Live Demo](https://img.shields.io/badge/🌐%20Live%20Demo-brightgreen?style=for-the-badge)](https://globetrek-travel-explorer.netlify.app/)
 [![GitHub Repo](https://img.shields.io/badge/GitHub%20Repo-black?style=for-the-badge&logo=github)](https://github.com/Mounika-Balusa05/globetrek)
 
-## 📊 GitHub Stats
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Mounika-Balusa05&show_icons=true&theme=tokyonight&hide_border=true" height="165" />
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Mounika-Balusa05&theme=tokyonight&hide_border=true" height="165" />
-</p>
-
 ---
+
+## 📊 GitHub Stats
+<img src="https://github-readme-stats-eight-theta.vercel.app/api?username=Mounika-Balusa05&show_icons=true&theme=tokyonight&hide_border=true" height="165" />
+
 
 ## 📬 Contact Me
 
