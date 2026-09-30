@@ -82,7 +82,7 @@ I'm a **Full Stack Web Developer** who builds end-to-end applications using the 
 
 📋 Smart Job Application Tracker
 
-> Stop tracking job hunts in spreadsheets: manage applications, interviews, and reminders in one dashboard.
+> Full-stack MERN app to track job applications, schedule interviews, and get automatic reminders, so you never miss an opportunity.
 
 
 &nbsp;
