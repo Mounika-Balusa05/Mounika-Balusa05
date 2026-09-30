@@ -77,6 +77,8 @@ I'm a **Full Stack Web Developer** who builds end-to-end applications using the 
 ![Tailwind CSS](https://img.shields.io/badge/Tailwind_CSS-grey?style=flat&logo=tailwind-css)
 ![OpenAI API](https://img.shields.io/badge/OpenAI_API-grey?style=flat&logo=openai)
 
+&nbsp;
+[![GitHub Repo](https://img.shields.io/badge/GitHub%20Repo-black?style=for-the-badge&logo=github)](https://github.com/Mounika-Balusa05/interview-prep-ai)
 ---
 
 📋 Smart Job Application Tracker
@@ -99,27 +101,6 @@ I'm a **Full Stack Web Developer** who builds end-to-end applications using the 
 ![Express](https://img.shields.io/badge/Express.js-grey?style=flat&logo=express)
 ![MongoDB](https://img.shields.io/badge/MongoDB-grey?style=flat&logo=mongodb)
 ![JWT](https://img.shields.io/badge/JWT-grey?style=flat&logo=jsonwebtokens)
-
-
----
-
-### Travel Explorer
-
-> Explore smarter, plan better, travel easier.
-
-- Explore 19 global destinations with real photos powered by Unsplash API and interactive Google Maps
-- Search any destination worldwide — dynamically fetches live photos and displays results instantly
-- Plan day-wise itineraries and estimate trip budgets with multi-currency conversion support
-- Save favourite destinations and itineraries locally with dark/light mode and fully responsive design
-
-![HTML](https://img.shields.io/badge/HTML-grey?style=flat&logo=html5)
-![CSS](https://img.shields.io/badge/CSS-grey?style=flat&logo=css3)
-![JavaScript](https://img.shields.io/badge/JavaScript-grey?style=flat&logo=javascript)
-![Unsplash API](https://img.shields.io/badge/Unsplash_API-grey?style=flat&logo=unsplash)
-
-&nbsp;
-[![🌐 Live Demo](https://img.shields.io/badge/🌐%20Live%20Demo-brightgreen?style=for-the-badge)](https://globetrek-travel-explorer.netlify.app/)
-[![GitHub Repo](https://img.shields.io/badge/GitHub%20Repo-black?style=for-the-badge&logo=github)](https://github.com/Mounika-Balusa05/globetrek)
 
 ---
 
