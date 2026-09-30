@@ -63,11 +63,12 @@ I'm a **Full Stack Web Developer** who builds end-to-end applications using the 
 
 ### 🎯 AI Interview Prep App
 
-> Full stack MERN app to help users practice interviews with AI-generated questions.
+> Practice smarter, get hired faster: AI-generated questions, voice mock interviews, and instant scoring.
 
-- Built with **MongoDB, Express, React, and Node.js** for a seamless full stack experience
-- Generates **AI-powered interview questions** tailored to the user's role and tech stack
-- Provides **instant feedback** to help users improve their answers and confidence
+
+
+&nbsp;
+[![GitHub Repo](https://img.shields.io/badge/GitHub%20Repo-black?style=for-the-badge&logo=github)](https://github.com/Mounika-Balusa05/interview-prep-ai)
 
 
 ![React](https://img.shields.io/badge/React-grey?style=flat&logo=react)
@@ -77,20 +78,12 @@ I'm a **Full Stack Web Developer** who builds end-to-end applications using the 
 ![Tailwind CSS](https://img.shields.io/badge/Tailwind_CSS-grey?style=flat&logo=tailwind-css)
 ![OpenAI API](https://img.shields.io/badge/OpenAI_API-grey?style=flat&logo=openai)
 
-&nbsp;
-[![GitHub Repo](https://img.shields.io/badge/GitHub%20Repo-black?style=for-the-badge&logo=github)](https://github.com/Mounika-Balusa05/interview-prep-ai)
 ---
 
 📋 Smart Job Application Tracker
 
-> A full-stack MERN web app to manage your entire job search journey — from applying to landing your dream job.
+> Stop tracking job hunts in spreadsheets: manage applications, interviews, and reminders in one dashboard.
 
-- Track **application status, priority, and company details** with filters and search
-- Schedule **interviews** linked to applications with type, date, time, and interviewer info
-- Get **in-app notifications** automatically — 1 day and 1 hour before every interview
-- Secure **JWT authentication** with bcrypt password hashing for full privacy
-- Clean, modern **dark-themed dashboard** built with React for a smooth experience
-- Full **CRUD operations** powered by Express and MongoDB Atlas
 
 &nbsp;
 [![🌐 Live Demo](https://img.shields.io/badge/🌐%20Live%20Demo-brightgreen?style=for-the-badge)](https://jobtrackr-landing.vercel.app)
